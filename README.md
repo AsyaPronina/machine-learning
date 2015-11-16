@@ -8,9 +8,9 @@ Machine learning lectures and important info: [Lectures][Lectures]
 Example frim Nikolau Yu. Zolotykh: [Minimalist][Minimalist]
 
 <!--LINKS-->
-[Kaggle resourse] : https://www.kaggle.com/huili0140/2013-american-community-survey/the-working-moms/notebook
-[Kaggle storage] : https://www.kaggle.com/c/2013-american-community-survey/data
-[habrahabr resourse] : http://habrahabr.ru/post/206306/
-[Home page] : http://www.uic.unn.ru/~zny/
-[Lectures] : http://www.uic.unn.ru/~zny/ml/
-[Minimalist] : http://www.uic.unn.ru/~zny/ml/Lectures/Minimalist.ipynb
+[Kaggle resourse]: https://www.kaggle.com/huili0140/2013-american-community-survey/the-working-moms/notebook
+[Kaggle storage]: https://www.kaggle.com/c/2013-american-community-survey/data
+[habrahabr resourse]: http://habrahabr.ru/post/206306/
+[Home page]: http://www.uic.unn.ru/~zny/
+[Lectures]: http://www.uic.unn.ru/~zny/ml/
+[Minimalist]: http://www.uic.unn.ru/~zny/ml/Lectures/Minimalist.ipynb
