@@ -1,11 +1,11 @@
 # Machine-learning project "Work women"
 
-All information is in [Information from Kaggle][Kaggle resourse].
-Data files are in [Kaggle storage][Kaggle storage].
-Example is in [habrahabr resourse][habrahabr resourse]
-Nikolai Yu. Zolotykh’s Home Page [Home page][Home page]
-Machine learning lectures and important info: [Lectures][Lectures]
-Example frim Nikolau Yu. Zolotykh: [Minimalist][Minimalist]
+* All information is in [Information from Kaggle][Kaggle resourse].
+* Data files are in [Kaggle storage][Kaggle storage].
+* Example is in [habrahabr resourse][habrahabr resourse].
+* Nikolai Yu. Zolotykh’s Home Page [Home page][Home page].
+* Machine learning lectures and important info: [Lectures][Lectures].
+* Example frim Nikolau Yu. Zolotykh: [Minimalist][Minimalist].
 
 <!--LINKS-->
 [Kaggle resourse]: https://www.kaggle.com/huili0140/2013-american-community-survey/the-working-moms/notebook
