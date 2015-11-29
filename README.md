@@ -8,7 +8,7 @@
 * Nikolai Yu. Zolotykh’s Home Page [Home page][Home page].
 * Machine learning lectures and important info in [Lectures][Lectures].
 * Example from Nikolau Yu. Zolotykh: [Minimalist][Minimalist].
-*  **PROJECT REPORT** is in [Report][Google doc link]
+*  **PROJECT REPORT** is in [Google doc link][Report]
 
 <!--LINKS-->
 [Kaggle resourse]: https://www.kaggle.com/huili0140/2013-american-community-survey/the-working-moms/notebook
@@ -19,4 +19,4 @@
 [Home page]: http://www.uic.unn.ru/~zny/
 [Lectures]: http://www.uic.unn.ru/~zny/ml/
 [Minimalist]: http://www.uic.unn.ru/~zny/ml/Lectures/Minimalist.ipynb
-[Google doc link]: https://docs.google.com/document/d/1H0X0ny1r2F99jKQt6K63ittCoKUNeynZPQ_Ekhp8EsA/edit?pli=1
+[Report]: https://docs.google.com/document/d/1H0X0ny1r2F99jKQt6K63ittCoKUNeynZPQ_Ekhp8EsA/edit?pli=1
